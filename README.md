@@ -1,4 +1,4 @@
-# STUDYING THE 2021 AMERICAN ASIAN PACIFIC ISLANDER MOVEMENT USING TWITTER & NEWS DATA
+## STUDYING THE 2021 AMERICAN ASIAN PACIFIC ISLANDER MOVEMENT USING TWITTER & NEWS DATA
 
 This repository contains analysis scripts that explore the 2021 American Asian Pacific Islander movement using Twitter and news data. The two primary scripts in this repository delve deep into the sentiment, interactions, and trends associated with this movement.
 
@@ -39,6 +39,3 @@ Before running the scripts, ensure you have the following libraries installed.
 
 ## Contributing
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
